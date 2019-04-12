@@ -1,0 +1,328 @@
+*{margin:0;padding:0;}h1,h2,h4,h5,h6 {text-align:center;}
+.container{width:1140px;
+			margin:0 auto;}
+.banner{width:100%;
+		float:left;
+		background:#26022d;
+		padding-top:20px;
+		padding-bottom:80px;
+}
+
+
+
+.header-top{
+}
+.logo{width:30%;
+	 float:left;
+}
+
+.cuda{ margin:0 auto;
+		display:block;
+		padding-top:15px;
+		text-align:center;
+		cursor:pointer;
+}
+
+
+
+.menu{width:65%;
+	float:left;
+}
+
+
+
+nav {text-align:center;}
+
+.menu ul{list-style:none;
+		}
+
+.menu ul li {display:inline-block;
+			margin:10px 8px;
+			padding:17px;
+			font-size:20px;
+			transition:.5s;}
+
+.menu ul li:hover{border-radius:50px;
+					background:#db5106;
+					cursor:pointer;
+					color:black;
+					transform:scale(1.2)}
+
+
+
+
+
+
+
+.menu ul li a {text-decoration:none;
+				color:#bfa8a8;}
+
+.hero{
+		width:400px;
+		margin:0 auto;
+	}
+
+
+.hero	h3{font-size:20px;
+		padding-top:150px;;
+		text-align:center;
+		color:white;}
+
+
+.btn{margin:0 auto;
+	display:block;
+	background:#db5106;
+	cursor:pointer;
+	font-size:15px;
+	color:#fff;
+	border:none;
+	padding:10px 20px;
+	outline:none;
+	margin-top:20px;
+	box-shadow:0px 3px #962506;
+	border-radius:10px;
+	transition:0.6s}	
+
+
+.btn:hover{background:#3a0000;
+			cursor:pointer;
+			color:#d6c8c7;
+			box-shadow:none;
+			border-radius:50px;
+			transform:scale(1.1)}
+
+
+
+
+/*end header-top*/
+
+.services {width:100%;
+			float:left;
+			background:#247f67;}
+
+
+.services-type {margin-top:20px;}
+
+
+.type {margin:0 auto;
+				width:600px;
+				padding-top:30px;}
+
+.type h2{text-align:center;
+		padding:10px;	}
+
+
+.underline {border-bottom:2px solid black;
+		display:block;
+		width:100px;
+		margin:0 auto;
+		margin-bottom:20px;}
+
+
+.type h4 {text-align:center;
+			font-size:15px;
+			line-height:17px;
+			}
+
+
+.service-box {width:224px;
+				margin:5px;
+				padding:8px;
+				display:inline-block;
+				line-height:15px;
+				margin-top:20px;
+				font-size:12px;
+				color:white;
+				margin-bottom:20px;}
+
+
+
+.flag {display:block;
+		margin:0 auto;}	
+		
+		
+		
+.branding {text-align:center;
+			}		
+		
+.service-box p {padding:10px;}		
+		
+		
+/*end services section*/
+
+.about {width:100%;
+		float:left;
+		background:#ccc5c5;
+		}		
+		
+		
+		
+		
+		
+.team-box {width:226px;
+				margin:10px;
+				padding:10px 1px;
+				display:inline-block;
+				line-height:15px;
+				margin-top:20px;
+				font-size:12px;
+				color:black;
+				margin-bottom:20px;
+				transition:1s;}
+.team-box:hover{background:transparent;
+				color:green;
+				transform:scale(1.1);}
+
+
+		
+.man {width:180px;
+		height:150px;
+		display:block;
+		margin:0 auto;}		
+		
+		
+.team-box h2 {text-align:center;
+				padding:12px;
+				font-family:sans-serif;}
+		
+.team-box h4 {text-align:center;
+				color:#461470;
+				padding-bottom:10px;}
+.line {padding:8px;
+		margin-top:10px;}
+.facebook {width:25px;
+			height:20px;
+			
+			box-sizing:border-box;
+			border:none;
+			outline:none;
+			margin:8px;
+			cursor:pointer;
+			border-radius:10px;
+			background:#bcb2c4;
+			margin-top:10px;
+			}
+
+
+.facebook:hover{background:#17191c;
+				cursor:pointer;
+				}
+
+
+/*end team */
+
+.skill{width:100%;
+		float:left;
+		background:#fff9f9;
+		font-family:sans-serif;}
+
+
+.percentage {width:225px;
+			background:white;
+			display:inline-block;
+			margin:5px;
+			padding:8px;
+			padding-top:30px;
+			padding-bottom:20px;}
+
+#circle {display:block;
+		margin:0 auto;}
+
+
+
+.percentage h3{text-align:center;
+				padding:8px;
+				}
+
+/*end performance*/
+
+.portfolio {width:100%;
+			float:left;
+			background:#e58c20;}
+		
+			
+.magic {margin:10px;
+		margin-left:12px;
+		border:none;
+		outline:none;
+		border-radius:3px;
+		padding:7px;
+		background:#231309;
+		color:white;
+		transition:0.8s}			
+
+#bottom {margin-left:140px;
+		margin-top:20px;
+		margin-bottom:20px;}
+
+
+.magic:hover{background:#c15009;
+			cursor:pointer;
+			bolder:none;
+			outline:none;
+			border-radius:20px;
+			transform:scale(1.2)}
+
+.big{margin:0 auto;
+		display:block;
+		width:480px;
+		height:270px;}
+
+.onlypic {width:400px;
+		  margin-top:15px;
+		  padding:30px;
+		  display:inline-block;
+		  margin-left:20px;}
+
+.heading {text-align:center;
+			padding:20px;
+			font-family:sans-serif;}
+
+
+.more { margin:0 auto;
+	display:block;
+	background:#108771;
+	cursor:pointer;
+	font-size:15px;
+	color:white;
+	border:none;
+	padding:10px 20px;
+	outline:none;
+	margin-top:20px;
+	box-shadow:0px 2px #062b24;
+	border-radius:10px;
+	transition:0.6s }	
+
+
+.more:hover{ background:#3a0000;
+			cursor:pointer;
+			color:#d6c8c7;
+			box-shadow:none;
+			border-radius:50px;
+			transform:scale(1.1)}
+
+
+/*end portfolio*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
